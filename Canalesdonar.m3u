@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece
+http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
