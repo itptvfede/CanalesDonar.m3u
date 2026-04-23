@@ -33,7 +33,6 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png" group-title="CINE",TNT CINE
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
