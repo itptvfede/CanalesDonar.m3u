@@ -7,13 +7,11 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.t
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
-http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY 
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-70_720.m3u8
@@ -53,3 +51,6 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
 
 #EXTINF:-1 group-title="FULLHD",DIRECTV
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
+
+#EXTINF:-1 group-title="FULLHD",HISTORY
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
