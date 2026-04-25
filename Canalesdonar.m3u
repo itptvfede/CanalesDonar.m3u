@@ -11,9 +11,6 @@ http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_v
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY 
@@ -48,5 +45,10 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.ts
 
 #EXTINF:-1 group-title="FULLHD",TNT CINE
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.ts
+
+
+#EXTINF:-1 group-title="FULLHD",HBO FAMILY
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.ts
+
 
 
