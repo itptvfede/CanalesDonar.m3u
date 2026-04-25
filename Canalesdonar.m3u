@@ -10,14 +10,8 @@ http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/70.m3u8
-
-#EXTINF:-1 group-title="FULLHD",EL CHAVO 24/7
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/185005.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
@@ -45,6 +39,14 @@ http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-70_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 group-title="FULLHD",EL CHAVO 24/7
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/185005.m3u8
+
+#EXTINF:-1 group-title="FULLHD",ELTRECE
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
+
+
 
 
 
