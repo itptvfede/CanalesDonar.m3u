@@ -14,7 +14,7 @@ http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_v
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
-http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-70_720.m3u8
+http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-70_720.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -49,6 +49,5 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
 #EXTINF:-1 group-title="FULLHD",TNT SPORTS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
 
-
 #EXTINF:-1 group-title="FULLHD",DIRECTV
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
