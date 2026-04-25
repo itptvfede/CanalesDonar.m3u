@@ -16,9 +16,6 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLqyfM3m/images.jpg",DIRECTV SPORTS 
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-70_720.m3u8
 
@@ -46,9 +43,10 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.ts
 #EXTINF:-1 group-title="FULLHD",BITME
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17551.ts
 
-
 #EXTINF:-1 group-title="FULLHD",ESPN PREMIUM
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
 
+#EXTINF:-1 group-title="FULLHD",TNT SPORTS
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
