@@ -62,3 +62,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
 
 #EXTINF:-1 group-title="FULLHD",HISTORY
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.ts
+
+
+#EXTINF:-1 group-title="FULLHD",ESPN PREMIUM
+http://181.13.252.102:8000/play/a078/45093507.m3u8
